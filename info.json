@@ -1,0 +1,12 @@
+
+{
+  "author": ["Lazar"],
+  "install_msg": "",
+  "name": "HockeyBot",
+  "disabled": false,
+  "short": "",
+  "description": "HockeyBot",
+  "tags": [],
+  "requirements": [],
+  "hidden": false
+}
